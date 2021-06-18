@@ -13,7 +13,7 @@ Requirements
 To run the code within this repository requires [Python 3.7+](https://www.python.org/) with the following dependencies
 
 - [`torch`](https://pytorch.org/get-started/locally/)
-- and some standard python libraries [`matplotlib`](https://matplotlib.org/stable/users/installing.html),  [`numpy`](https://numpy.org/), [`itertools`](https://docs.python.org/3/library/itertools.html), [`random`](https://docs.python.org/3/library/random.html) and [`os`](https://docs.python.org/3/library/os.html)
+- and some standard python libraries [`matplotlib`](https://matplotlib.org/stable/users/installing.html),  [`numpy`](https://numpy.org/)
 
 which can be installed via
 ```
