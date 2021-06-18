@@ -1,5 +1,4 @@
 torch
-itertools
 matplotlib
 numpy
 random
