@@ -5,7 +5,7 @@ Patrick Gallinari and Maxime Sermesant.
 
 <img src="images/Model_scheme.svg" width="800" title="Model structures used in this repository">
 
-Your can test our model via this [`Binder virtual environment`](https://mybinder.org/v2/gh/KVict-new/EP-Net-2.0/HEAD?filepath=Test.ipynb) or on your personal computer installing the following requirements.
+Your can test our model via this Binder virtual environment [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KVict-new/EP-Net-2.0/HEAD?filepath=Test.ipynb) or on your personal computer via Jupyter notebook file [`Test.ipynb`](./Test.ipynb) after installing the following requirements.
 
 Requirements
 ------
