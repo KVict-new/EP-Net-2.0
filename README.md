@@ -1,6 +1,11 @@
 # EP-Net-2.0
 Test of trained PDE-Net 2.0
 
+Source code associated with an [article presented at the conference FIMH 2021](.) by Victoriya Kashtanova, Ibrahim Ayed, Nicolas Cedilnik,
+Patrick Gallinari and Maxime Sermesant.
+
+![Model structures used in this repository](images/Model_scheme.pdf)
+
 ## Our Results
 
 ### Scar of Rectangular Shape
