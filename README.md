@@ -1,6 +1,6 @@
 # EP-Net 2.0: Out-of-Domain Generalisation for Deep Learning Models of Cardiac Electrophysiology (Test code for trained model)
 
-Source code associated with an [article presented at the conference FIMH 2021](.) by Victoriya Kashtanova, Ibrahim Ayed, Nicolas Cedilnik,
+Test code associated with an [article presented at the conference FIMH 2021](.) by Victoriya Kashtanova, Ibrahim Ayed, Nicolas Cedilnik,
 Patrick Gallinari and Maxime Sermesant.
 
 <img src="images/Model_scheme.svg" width="800" title="Model structures used in this repository">
