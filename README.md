@@ -5,7 +5,7 @@ Source code associated with an [article presented at the conference FIMH 2021](.
 Patrick Gallinari and Maxime Sermesant.
 
 <img src="images/Model_scheme.jpg" width="800" title="Model structures used in this repository">
-![Model structures used in this repository](images/Model_scheme.jpg)
+<img src="images/Model_scheme.svg" width="800" title="Model structures used in this repository">
 
 ## Our Results
 
